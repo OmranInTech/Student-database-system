@@ -49,7 +49,7 @@
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/studenttd.git
+git clone https://github.com/OmranInTech/Student-database-system.git
 ```
 
 2. **Navigate to the project folder:**
